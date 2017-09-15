@@ -2,7 +2,7 @@
 
 # Foodtece
 
-A documentação a seguir detalha um projeto como parte dos trabalhos acadêmicos a serem submetidos para o curso de Ciência da Computação na instituição da FATECE.
+A documentação a seguir detalha um projeto como parte dos trabalhos acadêmicos a serem submetidos para o curso de Ciência da Computação na instituição FATECE.
 
 **Foodtece** é um sistema baseado em Arduino que se utiliza de tecnologia a Rádio Frequencia \(RFID\) com o propósito de gravar créditos em um cartão, possibilitando a realização de compras com o mesmo.
 
