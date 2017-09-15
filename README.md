@@ -15,3 +15,5 @@ Membros do Projeto:
 
 ![](/assets/partes.jpg)
 
+**Pirassununga, São Paulo. XX/09/2017**
+
