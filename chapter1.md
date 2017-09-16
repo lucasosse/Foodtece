@@ -2,31 +2,49 @@
 
 ## Cabo USB
 
+Responsável pela transmisão de dados e alimentação de eletricidade entre componentes e computador.
+
 ## ![](/assets/usb.jpeg)
 
-## Arduíno uno                
+## Arduíno uno
 
-## ![](/assets/arduino uno.jpeg)   
+Unidade principal controladora.
 
-## Cartão RFID             
+## ![](/assets/arduino uno.jpeg)
 
-## ![](/assets/cartao-rfid.jpeg)  
+## Cartão RFID
 
-## Chaveiro RFID            
+Cartão vazio que lê e grava dados através de rádio frequência.
 
-## ![](/assets/chaveiro-rfid.jpeg)                      
+## ![](/assets/cartao-rfid.jpeg)
 
-## Leitor MFRC522                       
+## Chaveiro RFID
+
+Chaveiro com mesma função do gravador.
+
+## ![](/assets/chaveiro-rfid.jpeg)
+
+## Leitor MFRC522
+
+Leitor e gravador de dados RFID, trabalha em conjunto com os cartões.
 
 ![](/assets/leitor-MFRC522.jpeg)
 
-## Cabo 20cm Macho x Macho                        ![](/assets/cabo-20mm-maxomaxo.jpeg)
+## Cabo 20cm Macho x Macho    
 
-## Tela LCD 16x2 com adaptador I2C             
+Conectores                
 
-## ![](/assets/lcd-16x2-adaptador-i2c.jpeg)  
+    ![](/assets/cabo-20mm-maxomaxo.jpeg)
+
+## Tela LCD 16x2 com adaptador I2C
+
+Tela que transmite informações ao usuário.
+
+## ![](/assets/lcd-16x2-adaptador-i2c.jpeg)
 
 ## Mini protoboard
+
+Função de conectar os componentes, usado com conjunto com os cabos de 20 milímetro.
 
 ## ![](/assets/mini-protoboard.jpeg)
 
