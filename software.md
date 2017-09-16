@@ -10,7 +10,7 @@ Nosso projeto requer algumas bibliotecas de código customizadas para o propósi
 
 #### LyquidCrystal I2C
 
-Tem como propósito controlar a tela LCD 20x2 selecionada. A biblioteca foi escolhida no lugar da LyquidCrystal que é pré instalada por causa de sua simplicidade maior de interação com adaptadores. Essa biblioteca economiza fios conectores em relação a original.
+Tem como propósito controlar a tela LCD 16x2 selecionada. A biblioteca foi escolhida no lugar da LyquidCrystal que é pré instalada por causa de sua simplicidade maior de interação com adaptadores. Essa biblioteca economiza fios conectores em relação a original.
 
 #### MFRC522
 
@@ -20,11 +20,15 @@ Biblioteca que gerencia o leitor de dados RFID.
 
 Biblioteca que gerencia o gravador de dados RFID.
 
+
+
 ![](https://www.android.com/static/2016/img/logo-android-green_1x.png)
 
 # Aplicativo para Android
 
 Em adição ao sistema apresentado, será desenvolvido em conjunto um protótipo de Aplicativo de Android que auxilia o usuário a interagir no processo de compra e venda. Isso irá garantir mais eficiência no sistema Point of Sale e um engajamento de usuários maior.
+
+
 
 ![](https://www.python.org/static/community_logos/python-logo.png)
 
