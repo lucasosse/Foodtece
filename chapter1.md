@@ -30,11 +30,11 @@ Leitor e gravador de dados RFID, trabalha em conjunto com os cartões.
 
 ![](/assets/leitor-MFRC522.jpeg)
 
-## Cabo 20cm Macho x Macho    
+## Cabo 20cm Macho x Macho
 
-Conectores                
+Conectores
 
-    ![](/assets/cabo-20mm-maxomaxo.jpeg)
+![](/assets/cabo-20mm-maxomaxo.jpeg)
 
 ## Tela LCD 16x2 com adaptador I2C
 
