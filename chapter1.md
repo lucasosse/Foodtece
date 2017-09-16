@@ -6,7 +6,7 @@ Responsável pela transmisão de dados e alimentação de eletricidade entre com
 
 ## ![](/assets/usb.jpeg)
 
-## Arduíno uno
+## Arduino uno
 
 Unidade principal controladora.
 

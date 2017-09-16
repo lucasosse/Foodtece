@@ -28,8 +28,6 @@ Biblioteca que gerencia o gravador de dados RFID.
 
 Em adição ao sistema apresentado, será desenvolvido em conjunto um protótipo de Aplicativo de Android que auxilia o usuário a interagir no processo de compra e venda. Isso irá garantir mais eficiência no sistema Point of Sale e um engajamento de usuários maior.
 
-
-
 ![](https://www.python.org/static/community_logos/python-logo.png)
 
 ## Python

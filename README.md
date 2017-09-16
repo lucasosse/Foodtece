@@ -13,5 +13,5 @@ Membros do Projeto:
 * Hugo Perelli \| RA: 10216
 * Lucas Osse \| RA: 10050
 
-**Pirassununga, São Paulo. XX/09/2017**
+**Pirassununga, São Paulo. 18/09/2017**
 
