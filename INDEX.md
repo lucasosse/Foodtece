@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [Requisitos](requisitos.md)
-* [Hardware](chapter1.md)
+* [Hardware](/hardware.md)
 * [Software](software.md)
 
 

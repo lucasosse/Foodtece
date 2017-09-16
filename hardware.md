@@ -32,9 +32,15 @@ Leitor e gravador de dados RFID, trabalha em conjunto com os cartões.
 
 ## Cabo 20cm Macho x Macho
 
-Conectores
+Interface entre o Protoboard e os componentes.
 
 ![](/assets/cabo-20mm-maxomaxo.jpeg)
+
+## Conectores Fêmea x Macho
+
+Interface de componentes.
+
+![](/assets/cabos-femeaxmacho.jpeg)
 
 ## Tela LCD 16x2 com adaptador I2C
 
