@@ -8,7 +8,7 @@ A documentação a seguir detalha um projeto como parte dos trabalhos acadêmico
 
 Membros do Projeto:
 
-* Carlos Kinke \| RA: 10212
+* Carlos Klinke \| RA: 10212
 * Igor Faro \| RA:10498
 * Hugo Perelli \| RA: 10216
 * Lucas Osse \| RA: 10050
